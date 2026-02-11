@@ -20,4 +20,4 @@ Desenvolvedor de Software em formação com sólida base analítica e experiênc
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Clique aqui para acessar meu perfil]([https://www.linkedin.com/in/cassiano-abreu/])
+- **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/cassiano-abreu/)
