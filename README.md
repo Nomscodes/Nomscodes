@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Cassiano! 👋
 
-<!--
-**Nomscodes/Nomscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software em formação com sólida base analítica e experiência em gestão de processos. Estou em transição de carreira, unindo minha trajetória em Engenharia de Produção e Auditoria ISO à resolução de problemas complexos através da tecnologia.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na FATESG SENAI.
+- 💼 Ex-Business Manager com vivência em otimização de fluxos e regras de negócio.
+- 🎯 Focado no ecossistema Java e no desenvolvimento de soluções escaláveis.
+- 🌍 Inglês Avançado/Fluente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens:** Java (Swing, JDBC).
+- **Ferramentas:** Maven, Git, GitHub.
+- **Infraestrutura:** Windows Server, Active Directory, GPOs, VirtualBox.
+- **Dados:** SQL, MS Excel (Integração).
+
+### 📈 Projeto em Destaque
+- **[GynLog - Gestão de Frota](https://github.com/Nomscodes/projeto-integrador-gynlog-java):** Sistema completo com interface Swing, persistência híbrida (TXT/Excel) e documentação técnica integral de engenharia (ERS, PNS, RRC).
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [Clique aqui para acessar meu perfil]([https://www.linkedin.com/in/cassiano-abreu/])
