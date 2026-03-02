@@ -30,5 +30,11 @@ Aplicação desktop para gerenciamento de compromissos e contatos, desenvolvida 
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-abreu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_PERFIL])
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassiano.abreuu@gmail.com)
+
+## 📊 Estatísticas
+
+[![GitHub-Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nomscodes&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top-Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nomscodes&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
