@@ -33,7 +33,7 @@ Aplicação desktop para gerenciamento de compromissos e contatos, desenvolvida 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-abreu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassiano.abreuu@gmail.com)
 
----
+📧 **E-mail:** [cassiano.abreuu@gmail.com](mailto:cassiano.abreuu@gmail.com)
 
 ## 📊 Estatísticas
 
