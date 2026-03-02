@@ -1,4 +1,4 @@
-# Olá, eu sou o Cassiano! 👋
+<img width="328" height="113" alt="image" src="https://github.com/user-attachments/assets/9bc647bd-bba5-40d9-9539-3c73725238a9" /># Olá, eu sou o Cassiano! 👋
 
 Desenvolvedor de Software em formação com sólida base analítica e experiência em gestão de processos. Estou em transição de carreira, unindo minha trajetória em Engenharia de Produção e Auditoria ISO à resolução de problemas complexos através da tecnologia.
 
@@ -30,8 +30,10 @@ Aplicação desktop para gerenciamento de compromissos e contatos, desenvolvida 
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_SEU_PERFIL])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cassiano.abreuu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/cassiano-abreu/])
+<a href="mailto:cassiano.abreuu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
 ## 📊 Estatísticas
 
