@@ -18,6 +18,11 @@ Desenvolvedor de Software em formação com sólida base analítica e experiênc
 
 ## 📈 Projetos em Destaque
 
+### 🗄️ [Database Logic Portfolio (SQL)](https://github.com/Nomscodes/database-logic-portfolio-SQL)
+Repositório central de estratégias e soluções em SQL, focado em modelagem de dados e resolução de problemas reais.
+* **Diferenciais:** Demonstração de normalização, integridade referencial e transição do modelo conceitual para o físico.
+* **Stack:** SQL (PostgreSQL/MySQL), Modelagem Relacional (DER).
+
 ### 🚛 [GynLog - Gestão de Frota](https://github.com/Nomscodes/projeto-integrador-gynlog-java)
 Sistema para controle logístico com interface Swing e persistência híbrida (TXT/Excel).
 * **Diferenciais:** Documentação técnica baseada em Engenharia de Requisitos e Metodologias Ágeis.
