@@ -97,8 +97,9 @@ Aplicação desktop estruturada no **Modelo de Visão 4+1**.
 
   * **Stack:** Java Swing, Layered Architecture.
 
-<div align="center">
+
 ## 🗺️ Roadmap de Carreira
+<div align="center">
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
