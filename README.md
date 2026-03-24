@@ -120,7 +120,7 @@ Aplicação desktop estruturada no **Modelo de Visão 4+1**.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomscodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomscodes&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomscodes&layout=compact&theme=tokyonight&hide_border=true)
