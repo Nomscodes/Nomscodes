@@ -116,17 +116,6 @@ Aplicação desktop estruturada no **Modelo de Visão 4+1**.
 </div>
 
 
-## 📊 Estatísticas Completas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nomscodes&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nomscodes&layout=compact&theme=tokyonight&hide_border=true)
-
-
-</div>
 
 
 ## 📫 Vamos nos conectar?
