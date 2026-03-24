@@ -18,7 +18,17 @@
 [](https://www.oracle.com/java/)
 [](https://n8n.io)
 [](https://www.google.com/search?q=)
+## 🛠️ Tecnologias e Experiência
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 <br>
 
  **Desenvolvedor Junior** focado em Backend, Integrações de IA e Automação de Processos.  
@@ -87,7 +97,7 @@ Aplicação desktop estruturada no **Modelo de Visão 4+1**.
 
   * **Stack:** Java Swing, Layered Architecture.
 
-
+<div align="center">
 ## 🗺️ Roadmap de Carreira
 
 ```text
@@ -102,16 +112,17 @@ Aplicação desktop estruturada no **Modelo de Visão 4+1**.
 ║ ✅ Java Fundamentos         ║ 🔄 FastAPI Mastery       ║ ⬜ AWS Practitioner        ║
 ╚═════════════════════════════╩═══════════════════════════╩════════════════════════════╝
 ```
+</div>
 
 
-## 📊 Estatísticas
+## 📊 Estatísticas Completas
 
 <div align="center">
 
-![GitHub-Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nomscodes&show_icons=true&theme=navy)
-![Top-Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nomscodes&layout=compact&theme=navy)
+![GitHub-Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nomscodes&show_icons=true&theme=navy&include_all_commits=true)
 
 </div>
+
 
 ## 📫 Vamos nos conectar?
 
@@ -121,6 +132,7 @@ Aplicação desktop estruturada no **Modelo de Visão 4+1**.
 
 📧 **E-mail:** [cassiano.abreuu@gmail.com](mailto:cassiano.abreuu@gmail.com)  
 📍 **Localização:** Goiânia, GO, Brasil
+
 
 <div align="center">
 
