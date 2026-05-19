@@ -26,6 +26,7 @@
 
 </div>
 
+<div align="center">
 ---
 
 ## 📊 Estatísticas do GitHub (Incluindo Repos privados)
@@ -33,6 +34,8 @@
 ![Metrics](./github-metrics.svg)
 
 ---
+
+</div>
 
 ## 🚀 Perfil Profissional
 
