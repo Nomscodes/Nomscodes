@@ -1,19 +1,19 @@
 <div align="center">
-
 <br/>
-<div align="center">
- 
-```text
+
+<pre>
  ██████╗ █████╗ ███████╗███████╗██╗ █████╗ ███╗   ██╗ ██████╗ 
 ██╔════╝██╔══██╗██╔════╝██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
 ██║     ███████║███████╗███████╗██║███████║██╔██╗ ██║██║   ██║
 ██║     ██╔══██║╚════██║╚════██║██║██╔══██║██║╚██╗██║██║   ██║
 ╚██████╗██║  ██║███████║███████║██║██║  ██║██║ ╚████║╚██████╔╝
  ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-```
+</pre>
+
 </div>
 
-### Junior Software Developer | AI & Automation Enthusiast | ADS @ FATESG
+<div align="center">
+Junior Software Developer | AI & Automation Enthusiast | ADS @ FATESG
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
