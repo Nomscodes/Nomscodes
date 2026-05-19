@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  # Roda automaticamente a cada 12 horas
+  schedule: [{cron: "0 */12 * * *"}]
+  # Permite rodar manualmente a qualquer momento
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Configurações globais
+          user: Nomscodes
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Ativação de repositórios privados
+          config_timezone: America/Sao_Paulo
+          repositories_affiliations: owner, collaborator
+          # Esta linha abaixo é o segredo para incluir os privados:
+          config_order: featured, pinned, stabilization
