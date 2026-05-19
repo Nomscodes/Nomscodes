@@ -28,6 +28,12 @@
 
 ---
 
+## 📊 Estatísticas do GitHub (Incluindo Repos privados)
+
+![Metrics](./github-metrics.svg)
+
+---
+
 ## 🚀 Perfil Profissional
 
 Desenvolvedor Junior em transição de carreira com base sólida em **Engenharia de Produção** e **Gestão de Negócios**. Foco em backends escaláveis com Python/Java e soluções com IA e automação de processos.
