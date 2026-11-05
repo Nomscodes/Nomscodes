@@ -1,129 +1,95 @@
 <div align="center">
-<br/>
 
-<pre>
- ██████╗ █████╗ ███████╗███████╗██╗ █████╗ ███╗   ██╗ ██████╗ 
-██╔════╝██╔══██╗██╔════╝██╔════╝██║██╔══██╗████╗  ██║██╔═══██╗
-██║     ███████║███████╗███████╗██║███████║██╔██╗ ██║██║   ██║
-██║     ██╔══██║╚════██║╚════██║██║██╔══██║██║╚██╗██║██║   ██║
-╚██████╗██║  ██║███████║███████║██║██║  ██║██║ ╚████║╚██████╔╝
- ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-</pre>
+# Cassiano Abreu
 
-</div>
-
-<div align="center">
-Junior Software Developer | Full Stack & Automation | ADS @ FATESG
+**Desenvolvedor Júnior | Full Stack & Automação | Goiânia, GO**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-abreu)
 
 </div>
 
-<div align="center">
 ---
 
-## 📊 Estatísticas do GitHub (Incluindo Repos privados)
+## 🚀 Sobre mim
 
-![Metrics](./github-metrics.svg)
+Desenvolvedor em formação com foco em **desenvolvimento web**, **automação** e **arquitetura de sistemas**. Estou buscando minha primeira oportunidade na área de TI, nas frentes de **desenvolvimento, QA, análise de sistemas ou programação**.
 
----
+Venho da **Engenharia de Produção** (PUC Goiás) e tenho experiência prática com **auditoria e consultoria em ISO 9001, 14001 e 27001**, além de **adequação à LGPD**. Essa bagagem em processos e conformidade me ajuda a construir software com atenção à segurança, à rastreabilidade e à eficiência operacional.
 
-</div>
-
-## 🚀 Perfil Profissional
-
-Desenvolvedor Júnior / Full Stack com foco em arquitetura de software, automação e construção de sistemas web escaláveis em ambiente de produção (Python/FastAPI, React, PostgreSQL e Java). Base sólida oriunda da **Engenharia de Produção**, auditoria e melhoria de processos (ISO 27001, 25010, LGPD, 9001) e visão de negócios, combinando rigor técnico, segurança da informação e foco em eficiência operacional.
-
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — Faculdade SENAI FATESG (8º Período)
-- 🎓 **Formação:** Engenharia de Produção — Pontifícia Universidade Católica de Goiás
-- 📜 **Certificações & Idioma:** Inglês C2 Proficient (EF SET 75/100)
-- 🌐 **Deploy & Infra:** Docker, Railway, Cloudflare | Sistemas B2B em produção
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas, SENAI FATESG (Goiânia)
+- 🎓 **Formação:** Engenharia de Produção, Pontifícia Universidade Católica de Goiás (PUC Goiás)
+- 🏢 **Marca:** Origin Dev House, minha casa de desenvolvimento de software
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Stack Técnica
 
 | Categoria | Tecnologias |
 |---|---|
-| **Linguagens** | Python 3.11+, Java 21, SQL, JavaScript, HTML5/CSS3 |
-| **Backend & APIs** | FastAPI, Spring Boot 4.1, REST APIs, Async SQLAlchemy, Pydantic, Spring Security, JWT |
-| **Frontend** | React 18 / React 19, Tailwind CSS, JavaScript. |
-| **Arquitetura & Padrões** | Hexagonal, Monólito Modular, Bounded Contexts, Eventos Assíncronos (Spring Events), App-Only Audit. |
-| **IA & Integrações** | OpenAI (GPT-4o Mini), Anthropic API (Claude), Serpro, Serasa Experian. |
-| **Bancos de Dados** | PostgreSQL (multi-schema), SQLite, Flyway (migrations), Modelagem DER, Normalização. |
-| **Segurança & Governança** | JWT RS256, Criptografia AES-256, ISO 27001, Conformidade LGPD. |
-| **DevOps & Ferramentas** | Docker, Railway, Cloudflare, Git, X-Correlation-Id / MDC. |
+| **Linguagens** | Python, Java 21, SQL, JavaScript, HTML5/CSS3 |
+| **Backend & APIs** | FastAPI, Spring Boot, REST APIs, JWT |
+| **Frontend** | React, Angular, Tailwind CSS |
+| **Bancos de Dados** | PostgreSQL, SQLite, modelagem DER (conceitual, lógico e físico) |
+| **DevOps & Ferramentas** | Docker, Railway, Git, GitHub |
+| **Secundárias** | Ruby on Rails, n8n, FFmpeg, APIs da Claude e da OpenAI |
+| **Estudo** | Estruturas de dados, POO, arquitetura MVC, padrões de projeto |
 
 ---
 
-## 🤖 IA, Automação & Arquitetura
+## 📈 Projetos
 
-- ⚡ **Pareceres & Relatórios via IA:** Integração de modelos LLM (OpenAI GPT-4o Mini / Anthropic Claude) para automação de pareceres de crédito e geração de conteúdo.
-- 🔗 **APIs & Integradores:** Consumo de APIs públicas e privadas de grande porte (Serpro, Serasa Experian, FIPE) com pipelines resilientes e redução drástica de custos operacionais.
-- 🧠 **Arquiteturas Robustas:** Modelagem de sistemas escaláveis com isolamento de contexto (Bounded Contexts), desacoplamento por eventos e auditoria append-only.
+### 🏦 Plataforma de Rating de Crédito (B2B)
+Sistema de análise de crédito para cliente, desenvolvido de ponta a ponta.
+- **Stack:** Python · FastAPI · React · PostgreSQL · Docker · Railway
 
----
+### 💼 Talentto AI — SaaS de conteúdo para RH
+Plataforma SaaS para geração de conteúdo de LinkedIn voltado a RH, com autenticação JWT RS256, criptografia AES-256 e planos de assinatura.
+- **Stack:** FastAPI · PostgreSQL 16 · SQLAlchemy 2.0 (async) · Alembic · Claude/OpenAI API · Railway
+- **Site:** [talenttoai.com.br](https://talenttoai.com.br)
 
-## 📈 Projetos em Destaque
+### 🪒 Cadeira Livre — Agendamento para barbearias
+SaaS multi-tenant de agendamento, em que cada barbearia tem seu próprio site, catálogo de serviços e fluxo de confirmação de horários.
+- **Status:** em desenvolvimento
 
-### 🏦 [Veron Capital — Sistema de Rating Bancário](https://github.com/Nomscodes) - Contrato e sistema em produção
+### 📐 Levantamento de Materiais e Gerador de Orçamento — Perfis e Vidros — Origin
+Sistema web em produção e uso diário em distribuidora de vidros e perfis de alumínio. Realiza o cálculo e levantamento automatizado de perfis, ferragens e acessórios para esquadrias (portas e janelas de correr e giro) a partir das dimensões dos vãos, gerando orçamentos detalhados com agilidade.
+- **Status:** Em uso e aplicado na operação comercial
+- **Stack:** HTML5 · CSS3 · JavaScript
 
-Plataforma de análise de crédito B2B desenvolvida ponta a ponta para substituição de solução legada, reduzindo o custo por consulta de R$ 38 para R$ 4–8 (~78% de economia).
-
-- **Stack:** Python 3.11 · FastAPI · React 18 · PostgreSQL · Docker · Railway · JWT · Tailwind CSS.
-- **Integrações:** APIs do Serpro, Serasa Experian (score, protestos, CCF) e OpenAI GPT-4o Mini para pareceres e relatórios PDF.
-- **Atuação:** Desenvolvedor Solo (Contrato / Projeto em Produção).
-
----
-
-### 🚗 [Zait Shopping Car — Plataforma B2B de Gestão Veicular](https://github.com/Nomscodes) 
-
-Plataforma B2B de gestão veicular com arquitetura Hexagonal em Monólito Modular e 11 bounded contexts desacoplados via Spring Events assíncronos.
-
-- **Stack:** Java 21 · Spring Boot 4.1 · PostgreSQL 17 (Docker) · Flyway · Spring Security · JWT · REST APIs (FIPE) · React 19.
-- **Destaques:** Regras complexas de comissionamento, auditoria append-only, rastreabilidade por request (X-Correlation-Id/MDC) e isolamento multi-schema.
-- **Atuação:** Co-desenvolvimento (3 devs) | Arquiteto & Dev Backend / contrato.
+### ✂️ Otimizador de Corte de Barras — Perfis e Vidros — Origin
+Aplicação web em produção voltada ao cálculo de corte unidimensional (1D cutting stock), alocando peças de esquadrias e ripados em barras padrão comerciais para maximizar o aproveitamento e reduzir o desperdício de material na expedição e serralheria.
+- **Status:** Em uso e aplicado na operação
+- **Stack:** HTML5 · CSS3 · JavaScript
 
 ---
 
-### 💎 [Talentto AI — SaaS B2B de Conteúdo para RH](https://github.com/Nomscodes/talentto-ai)
+## 🎯 Objetivos
 
-Plataforma SaaS B2B voltada para Recursos Humanos com geração automatizada de conteúdo via IA e controle de quotas por plano de assinatura.
-
-- **Stack:** Python · FastAPI · Async SQLAlchemy · PostgreSQL · JavaScript · Cloudflare · Railway.
-- **Segurança:** Autenticação JWT RS256, criptografia AES-256 e proteção contra falhas de autorização.
-- **Status:** ✅ Plataforma completa em produção com clientes ativos · [talenttoai.com.br](https://talenttoai.com.br)
-- **Atuação:** Sistema criado para estudo e prática de Desenvolvimento, Planejamento e Arquitetura, finalizado com sucesso e em produção, com clientes ativos.
+- Conquistar a primeira oportunidade profissional em TI
+- Construir um portfólio sólido e relevante
+- Evoluir para desenvolvimento full stack, unindo sólida base de backend e interfaces bem construídas
 
 ---
 
-### 📅 [Personal Agenda System](https://github.com/Nomscodes/agenda-swing-layered-architecture)
+## 📫 Contato
 
-Aplicação desktop estruturada em arquitetura em camadas, com documentação profissional e fluxo Git ordenado.
-
-- **Stack:** Java · Swing · SQLite · Maven · Lombok
-- **Docs:** ADRs · CONTRIBUTING com Conventional Commits · README com badges
-
----
-
-## 🗺️ Roadmap de Carreira
-
-```text
-╔═════════════════════════════════════════════════════=═══════════════════════════════╗
-║                         CASSIANO ABREU — DEV JUNIOR ROADMAP                         ║
-╠══════════════════════════╦══════════════════════=═════╦═════════════════════════════╣
-║     CONCLUÍDO (Core)     ║      EM FOCO (Tech)        ║       PRÓXIMOS PASSOS       ║
-╠══════════════════════════╬═════════════════=══════════╬═════════════════════════════╣
-║ ✅ Lógica de Prog.       ║ 🔄 Spring Boot 4.x (Prod) ║ ⬜ Kubernetes (K8s)         ║
-║ ✅ Python / FastAPI Prod ║ 🔄 React 18/19 + Tailwind ║ ⬜ Spring Cloud             ║
-║ ✅ SQL, DER & Flyway     ║ 🔄 Arquitetura Hexagonal  ║ ⬜ Arquitetura Microsserv.  ║
-║ ✅ Java 21 & POO         ║ 🔄 Docker & Containers    ║ ⬜ AWS Practitioner         ║
-║ ✅ APIs REST + JWT/RS256 ║ 🔄 Integr. LLMs (OpenAI)  ║ ⬜ CI/CD Pipelines Avançados║
-╚══════════════════════════╩════════=═══════════════════╩═════════════════════════════╝
+- 💼 [LinkedIn](https://www.linkedin.com/in/cassiano-abreu)
+- 🐙 [GitHub](https://github.com/Nomscodes)
+- 💬 [WhatsApp](https://wa.me/5562981605989)
+- 📧 [E-mail](mailto:cassiano.abreuu@gmail.com)
